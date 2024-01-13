@@ -1,0 +1,22 @@
+td{
+
+    padding: 15px;
+    font-size: 20px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+}
+
+table{
+
+    background-color: green;
+
+}
+
+td:hover{
+
+    background-color:peru;
+    color: blue;
+    transition: 1s;
+
+}
